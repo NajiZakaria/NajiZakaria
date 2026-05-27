@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Zakaria Naji, a PhD student at ENSIAS and member of the Smart Systems Laboratory. <br>My research focuses on developing continuous authentication systems for mobile devices using behavioral biometrics to enhance security and user experience. <br>I am skilled in designing and implementing deep neural networks, data analysis, and developing algorithms for pattern recognition and predictive modeling.
+I am Zakaria Naji, a PhD student at ENSIAS and member of the Smart Systems Laboratory. My research focuses on developing continuous authentication systems for mobile devices using behavioral biometrics to enhance security and user experience. I am skilled in designing and implementing deep neural networks, data analysis, and developing algorithms for pattern recognition and predictive modeling.
 
 
 ## 🌐 Socials:
